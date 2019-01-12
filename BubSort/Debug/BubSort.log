@@ -1,0 +1,7 @@
+﻿  Bubble.cpp
+c:\users\lboli\documents\comp 150-17\bubsort\bubsort\bubble.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\lboli\documents\comp 150-17\bubsort\bubsort\bubble.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\lboli\documents\comp 150-17\bubsort\bubsort\bubble.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\lboli\documents\comp 150-17\bubsort\bubsort\bubble.cpp(43): warning C4390: ';': empty controlled statement found; is this the intent?
+  BubSort.vcxproj -> C:\Users\lboli\Documents\Comp 150-17\BubSort\Debug\BubSort.exe
+  BubSort.vcxproj -> C:\Users\lboli\Documents\Comp 150-17\BubSort\Debug\BubSort.pdb (Partial PDB)
